@@ -1,11 +1,11 @@
 ### Hi there! 👋
 
-<p> I'm Sahil T Chaudhary and I am currently studying at Carnegie Mellon University as a Masters student focussing on Robotics and Controls. I am a passionate Mechanical Engineer looking to leave a mark. </p>
+<p> I'm Sahil T Chaudhary and am currently studying at Carnegie Mellon University as a Master's in Mechanical Engineering student, focussing on Robotics and Controls. I am a passionate Robotics looking to leave a mark. </p>
 
 <ul>
-  <li> 🔭 I've have done an internship in Maruti Suzuki India Limited and worked at ArcelorMittal Nippon Steel India Limited.</li> 
-  <li> 🌱 I'm diving deep in the ML/Robotics with a focus in Automation and Robotic Integration. </li>
-  <li> ⚡ I'm interested in Computer Vision, Machine Learning and Controls. </li>
+  <li> 🔭 I'm a Graduate Research Assistant at the Biorobotics Lab at CMU. </li> 
+  <li> 🌱 My research work involves Multi-Agent Planning and Controls for a heterogenous system of robots, along with Comms-Aware Planning. </li>
+  <li> ⚡ I'm seeking full-time roles in Robotics Software, Controls and Planning. </li>
 </ul>
 
 <p>  📫 How to reach me:  </p>
